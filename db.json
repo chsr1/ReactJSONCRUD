@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "9875847965"
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "phone": "8562314569",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
